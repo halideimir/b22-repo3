@@ -1,0 +1,5 @@
+We just publish our local git repo
+to remote GitHub.com repostory
+few thing happened
+1. It automatically created new romote repo
+under your GitHub.com account.
